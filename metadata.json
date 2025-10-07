@@ -1,0 +1,5 @@
+{
+  "name": "ZERO Execution Engine",
+  "description": "An interactive chat application implementing the ZERO Execution Engine framework for high-assurance AI outputs.",
+  "requestFramePermissions": []
+}
