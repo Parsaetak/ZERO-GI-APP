@@ -1,5 +1,5 @@
 {
-  "name": "zero-execution-engine",
+  "name": "zero-engine-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",

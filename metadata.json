@@ -1,5 +1,5 @@
 {
-  "name": "ZERO Execution Engine",
-  "description": "An interactive chat application implementing the ZERO Execution Engine framework for high-assurance AI outputs.",
+  "name": "ZERO Engine App",
+  "description": "The ZERO (Zero Error, Reliable Output) Execution Engine is a metacognitive framework that enables an AI system to critique and correct its own outputs to guarantee compliance with a predefined set of operational constraints.",
   "requestFramePermissions": []
 }
